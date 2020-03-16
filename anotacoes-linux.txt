@@ -1,0 +1,61 @@
+ls -l => mostra conteudo diretório atual
+mkdir => cria diretório
+cd => entra em um diretório
+mv => move arquivos de um diretório para outro
+cp => copia arquivos de um diretório para outro
+CTRL + L= Limpa o conteúdo do terminal.
+Clear = Limpa o terminal.
+CTRL+C= Cancela comando que está sendo digitado no terminal .
+CLTR+ALT+T= Abrir o terminal .
+
+pwd= Mostra diretório atual.
+EXEMPLO: /home/carol
+
+ls= mostra conteúdo diretório atual.
+EXEMPLO: Desktop , downloads , examples.desktop (...)
+
+echo=  Para escrever mensagem no terminal 
+EXEMPLO: echo Seja Bem-Vindo!
+
+Seta para cima= Voltar para último comando digitado no terminal.
+EXEMPLO: echo Seja Bem-Vindo!
+Seja Bem-Vindo!
+
+cat= Mostra o que está escrito no arquivo no terminal.
+EXEMPLO: cat bemvindo.txt
+Bem-Vindo
+
+ls -la= Mostrar todo conteúdo no diretório até mesmo os que estão invisiveis.
+
+man= Comando de ajuda 
+EXEMPLO: man pwd . Ele ensinará tudo sobre o PWD 
+
+cd ..= Voltar para diretório anterior.
+
+.= Sempre vai referenciar ao diretório atual.
+
+ls ..= Mostra o diretório anterior
+
+ls /= É a raíz do nosso HD
+
+rmdir=  Para remover um diretório
+EXEMPLO: rmdir projetos-java.
+
+rm- Para remover um arquivo.
+EXEMPLO: rm arquivo3.txt
+
+cat teste.txt= Mostrar todo o conteúdo que está escrito no arquivo.
+EXEMPLO: Bem-vindo  e Meu primeiro teste.
+
+cp= Copiar arquivo.
+EXEMPLO: cp mensagem.txt bemvindo.txt
+
+zip= Para compactar arquivos 
+
+unzip- Para descompactar os arquivos.
+
+tar= É usado para armazenar vaŕios arquivos em um único, preservando todas as informações 
+que há nele .
+EXEMPLO: work.tar.gz 
+
+rm -r= Para remover diretório .
